@@ -1,0 +1,15 @@
+{
+    "name": "akk/mvc",
+    "authors": [
+        {
+            "name": "aungkaungkhant-nssh",
+            "email": "akkgit0909@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
